@@ -1,0 +1,15 @@
+﻿# Source documents - Aston Martin's own copyrighted PDFs.
+# Not redistributed here; available from astonmartin.com investor relations.
+# See README.md for the download list.
+source_docs/
+
+# Personal project brief - internal planning, not part of the published output
+aston_martin_project_plan.md.pdf
+
+# Office lock/temp files
+~$*
+*.tmp
+
+# OS
+Thumbs.db
+desktop.ini
